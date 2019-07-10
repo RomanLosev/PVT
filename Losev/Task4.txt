@@ -1,0 +1,4 @@
+
+The sequence cannot be considered correct.
+
+The sequence will be correct in this case: [((())()(()))]
